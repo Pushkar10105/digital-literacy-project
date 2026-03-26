@@ -1,2 +1,3 @@
 # digital-literacy-project
-This is My project for the course Digital Literacy
+**Name**:- Pushkara Bhardwaj
+**Registration Number**:-25BCY10105
