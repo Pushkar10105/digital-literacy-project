@@ -39,13 +39,13 @@ The module also emphasized the need to avoid slang, use appropriate greetings an
 
 A standard professional email structure includes:
 
-**Subject Line**: Clearly states the purpose of the email
-**Salutation**: Formal greeting (e.g., Dear Sir/Madam, Dear [Name])
-**Opening Line**: Brief introduction or purpose of writing
-**Body**: Main content, presented clearly and logically
-**Closing Line**: Summary or call to action
-**Sign-off**: Polite closing (e.g., Regards, Sincerely)
-**Signature**: Name and relevant details (designation/contact information)
+**Subject Line**: Clearly states the purpose of the email<br>
+**Salutation**: Formal greeting (e.g., Dear Sir/Madam, Dear [Name])<br>
+**Opening Line**: Brief introduction or purpose of writing<br>
+**Body**: Main content, presented clearly and logically<br>
+**Closing Line**: Summary or call to action<br>
+**Sign-off**: Polite closing (e.g., Regards, Sincerely)<br>
+**Signature**: Name and relevant details (designation/contact information)<br>
 
 This module also introduced us to the basics of social media etiquette such as focusing on responsible posting, respectful interactions, protecting personal information, and maintaining a professional digital footprint.
 
