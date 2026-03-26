@@ -1,4 +1,4 @@
 # digital-literacy-project
-**Name**:- Pushkara Bhardwaj
-**Registration Number**:-25BCY10105 /n abcd
+**Name**:- Pushkara Bhardwaj <br>
+**Registration Number**:-25BCY10105 
 
